@@ -1,2 +1,2 @@
-# pack
-Compression library
+# codec
+Encoding/decoding library
